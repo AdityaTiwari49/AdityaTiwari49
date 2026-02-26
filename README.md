@@ -30,9 +30,7 @@ I enjoy working with modern web technologies, contributing to open-source, and c
 
 **Tools & Platforms**  
 - Git & GitHub  
-- Docker  
-- VS Code  
-- Postman  
+- Docker 
 
 ---
 
