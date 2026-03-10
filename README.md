@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aditya Tiwari
 
 Architecting intelligent systems and scalable infrastructures with technical precision and design excellence.
