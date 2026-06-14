@@ -109,34 +109,6 @@ If you’d like to collaborate or have an internship/project idea — ping me!
 
 ---
 
-## 🎯 Roadmap (What I’ll be shipping next)
-- Improve DeployDash: add metrics and multi-region support  
-- Build MLOps pipelines for deploying small models into production  
-- Contribute to 3 major open-source projects this year
 
----
 
-## 🎲 Fun Stuff
-- Fun fact: Built my first web app at 16 — since then I love turning small ideas into tools people use.  
-- Hobbies: Chess, trekking, coffee experimentation ☕️
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-Want this README fully personalized (real links, screenshots, tone tweaks, and polished badges)? Reply with the info below and I’ll generate the final README ready to paste into your repo.
-
-Please provide:
-1. Preferred profile tagline (1 line)  
-2. Top 4–6 skills/technologies to highlight  
-3. Favorite projects (2–4). For each: name, 1–2 sentence description, repo URL, tech stack, one measurable outcome (if any), and a screenshot/GIF URL (optional)  
-4. Education: university, degree, expected/graduation year  
-5. Awards/certificates/community roles/OSS contributions to list (if any)  
-6. Portfolio URL, email (if public), and other socials to include  
-7. Preferred tone: warm, professional, conversational, bold, concise, or mix  
-8. Any extra notes (availability, hobbies, quote, dev philosophy)
-
-Example reply: “Use example values” will let me fill placeholders for you. Once you reply, I’ll return a finished README.md (with images embedded and polished badges) you can drop into your repository. ```
 >>>>>>> 379ad641d302dfa491d285209c6d073d2f6bf10d
